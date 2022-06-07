@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-size: 1 em;
+  font-family: Garamond;
+  }
+
+  #area_principal{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+    
+  }
+
+  p{
+    margin: 5px auto;
+  }
+
+  #pergunta{
+    margin: 10px auto;
+    
+  }
+
+    
